@@ -1,0 +1,1 @@
+takeing some important notes while I study HTTP.
